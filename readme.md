@@ -1,4 +1,5 @@
-# Classification Analysis On A Bank Marketing Campaign
+# Machine Learning Projects
+## 1. Classification Analysis On A Bank Marketing Campaign
 
 Our project is mainly focusing on classification analysis, whether a client will subscribe to a term deposit after a bank marketing campaign through phone contact. The data isrelated to a direct telemarketing campaign conducted by a Portuguese banking institution. During the phone call, bank agencies collected clients’ features, which will be the predictors in this project. After exploring and preprocessing the dataset, we build models to help the bank find those clients who are most likely to purchase the term deposit through telemarketing calls. The performances of all models are evaluated by computing the recall and F1 score of the class of subscription (class1).
 
